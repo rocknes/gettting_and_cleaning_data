@@ -50,4 +50,4 @@ tidyData <- sapply(s, function(x) colMeans(temp[3:68]))
 tidyData <- t(tidyData)
 
 #Write tidy data in file
-write.csv(tidyData, file="output.csv")
+write.csv(tidyData, file="output.txt")
