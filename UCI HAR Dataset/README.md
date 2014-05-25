@@ -7,7 +7,7 @@
   * Columns are the features required to be reported
   * Cells contain mean value of the (subject-activity, feature) pair
 
-* To Run the script put it inside the folder where the Samsung data is available (alongside feature.txt")
+* To Run the script put it inside the folder where the Samsung data is available (alongside "feature.txt")
 * Open R terminal
 * Set the correct directory
 * Run the script run_analysis.R
