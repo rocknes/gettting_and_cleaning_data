@@ -7,7 +7,7 @@
 * CodeBook.md:		This file
 
 
-###Variables:
+###Output:
 * output.txt: 180 rows x 67 columns
 
 * Column 1: Un-named column, each row contains (subject id, activity name) pair as a single string separated by a '-'
