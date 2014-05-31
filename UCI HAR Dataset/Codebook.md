@@ -10,7 +10,7 @@
 ###Output:
 * output.txt: 180 rows x 67 columns
 
-* Column 1: Un-named column, each row contains (subject id, activity name) pair as a single string separated by a '-'
+* Column 1: Un-named column, each row contains (subject id, activity name) pair as a single string, joined with a '.'
 * Column 2 through 67: Numeric fields containing Mean value (subject-activity pairwise) of the following columns extracted from the original Samsung data sheet. 
 
 	* tBodyAcc-mean()-X
